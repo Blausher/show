@@ -16,7 +16,6 @@
   <img src="buttons.jpg" width="50%"/>
 </p>
 
-<img src="https://i.imgur.com/DXwTQuz.png" data-canonical-src="https://i.imgur.com/DXwTQuz.png" width="400" height="300" />
 
 - При нажатии на кнопку __"Цены"__ пользователю присылается табличка с акутальными условиями и стоимостью тренировок.
 - При нажатии на кнопку __"info, корты, отзывы"__ пользователю присылаются inline конпки со ссылками на сторонние сайты
@@ -30,11 +29,10 @@
   <img src="prices.jpg" width="50%"/>
 </p>
 
-<img src="https://i.imgur.com/huMDUUX.png" data-canonical-src="https://i.imgur.com/huMDUUX.png" width="300" height="600" />
 
 ### Команды: приветствие пользователя и расписание
 <p align="center">
   <img src="start_and_schedule.jpg" width="50%"/>
 </p>
 
-<img src="https://i.imgur.com/8dpabLW.png" data-canonical-src="https://i.imgur.com/8dpabLW.png" width="300" height="600" />
+
