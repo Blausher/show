@@ -1,6 +1,10 @@
-## Python tg tennis bot (с использованием БД MySQL и ORM SQLAlchemy)
+# Python tg tennis bot (с использованием БД MySQL и ORM SQLAlchemy)
 
 
+Это проект телеграм бота, который заменяет деятельность менеджера тренировок по большому теннису. Вместо того, чтобы писать клиенту, спрашивать, когда ему было бы удобно потренироваться, клиенты сами выбирают удобное для них время. 
+
+
+## Команды
 #### Раскладка
 <img src="https://i.imgur.com/DXwTQuz.png" data-canonical-src="https://i.imgur.com/DXwTQuz.png" width="400" height="300" />
 
