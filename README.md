@@ -2,6 +2,6 @@
 
 ![Фото сделанных кнопок](https://i.imgur.com/DXwTQuz.png | width=100)
 
-<img src="https://i.imgur.com/DXwTQuz.png" data-canonical-src="https://i.imgur.com/DXwTQuz.png" width="200" height="400" />
+<img src="https://i.imgur.com/DXwTQuz.png" data-canonical-src="https://i.imgur.com/DXwTQuz.png" width="600" height="600" />
 
 
