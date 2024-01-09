@@ -12,6 +12,10 @@
 
 ## Возможности бота
 ### Раскладка на главном экране
+<p align="center">
+  <img src="buttons.jpg" width="50%"/>
+</p>
+
 <img src="https://i.imgur.com/DXwTQuz.png" data-canonical-src="https://i.imgur.com/DXwTQuz.png" width="400" height="300" />
 
 - При нажатии на кнопку __"Цены"__ пользователю присылается табличка с акутальными условиями и стоимостью тренировок.
@@ -22,7 +26,15 @@
 Когда пользователь впервые нажимает кнопку `start`, бот сохраняет его контакты в таблицу clients, когда человек кликает на возможный вариант тренировок. В БД создается запись: id пользователя -  id тренировки (на которую пользователь записался).
  
 ### Команды: Цены, назад и info
+<p align="center">
+  <img src="prices.jpg" width="50%"/>
+</p>
+
 <img src="https://i.imgur.com/huMDUUX.png" data-canonical-src="https://i.imgur.com/huMDUUX.png" width="300" height="600" />
 
 ### Команды: приветствие пользователя и расписание
+<p align="center">
+  <img src="start_and_schedule.jpg" width="50%"/>
+</p>
+
 <img src="https://i.imgur.com/8dpabLW.png" data-canonical-src="https://i.imgur.com/8dpabLW.png" width="300" height="600" />
