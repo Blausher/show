@@ -1,7 +1,7 @@
 import os
 
 
-TOKEN = '6085959478:AAG4N74txYt7kVhU_DwYsI6x6Bj608sIHM0'
+TOKEN = 'SECRET TOKEN'
 
 DATABASE = 'jdbc:mysql://sql11.freesqldatabase.com:3306/sql11646442'
 # DATABASE = 'sqlite:///C:\\Users\\Masha\\PYTHON\\TG_bot\\settings\\products.db' #не работает иначе на компе
