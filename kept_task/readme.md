@@ -1,5 +1,5 @@
-Что-то про задачу из kept
+# Постановка задачи:
 
 <p align="center">
-  <img src="https://i.imgur.com/Bsstli6.png" width="50%"/>
+  <img src="https://i.imgur.com/Bsstli6.png" width="60%"/>
 </p>
