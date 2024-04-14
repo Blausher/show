@@ -8,4 +8,4 @@
 - Подсчет метрик качества
 - kaggle submit
 
-[notebook лежит тут](https://github.com/Blausher/show/blob/main/avito_click_prediction/avito_click_prediction.ipynb)
+[notebook лежит тут](https://github.com/Blausher/show/blob/main/avito_click_prediction/click_prediction_notebook.ipynb)
