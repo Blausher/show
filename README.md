@@ -1,4 +1,4 @@
 # Что хорошего я сделал:
-1. [Python telegram tennis bot 🎾 (с использованием БД MySQL и ORM SQLAlchemy)](https://github.com/Blausher/show/tree/main/tg_tennis_project)
+1. [Python telegram tennis bot 🎾 (БД MySQL, SQLAlchemy)](https://github.com/Blausher/show/tree/main/tg_tennis_project)
 2. [CatBoost исследование для Kept: предсказание цен авто и обесценение авто со временем](https://github.com/Blausher/show/tree/main/kept_task)
-3. [Предсказание клика на рекламу Avito c использованием Spark, Hadoop, Vowpal Wabbit](https://github.com/Blausher/show/blob/main/avito_click_prediction/avito_click_prediction.ipynb)
+3. [Предсказание клика на рекламу Avito (Spark, Hadoop, Vowpal Wabbit)](https://github.com/Blausher/show/blob/main/avito_click_prediction/avito_click_prediction.ipynb)
