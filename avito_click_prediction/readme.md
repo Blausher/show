@@ -7,5 +7,5 @@
 - Обучение Vowpal Wabbit логистической регрессии (таргет - предсказание клика по контекстной рекламе)
 - Подсчет метрик качества
 - kaggle submit
-- 
+
 [notebook лежит тут](https://github.com/Blausher/show/blob/main/avito_click_prediction/avito_click_prediction.ipynb)
