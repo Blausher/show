@@ -1,8 +1,10 @@
 # Что хорошего я сделал:
-1. [Дипломная работа: Russian banks clustering in terms of risk](https://github.com/Blausher/show/tree/main/banks_clustering) (Spectral, DBSCAN, K-means, Fuzzy C-means, tf-idf, BERT, LDA)
-2. [Car price prediction Kept](https://github.com/Blausher/show/tree/main/kept_task) (CatBoost, SHAP, tf-idf)
-3. [Click prediction Avito](https://github.com/Blausher/show/tree/main/avito_click_prediction) (Spark, Hadoop, Vowpal Wabbit)
-4. [telegram tennis bot 🎾](https://github.com/Blausher/show/tree/main/tg_tennis_project) (ООП, MySQL, SQLAlchemy)
+| Проект | Используемые методы    |
+| :-----: | :---: | 
+| [Диплом: Russian banks clustering in terms of risk ](https://github.com/Blausher/show/tree/main/banks_clustering) | Spectral, DBSCAN, K-means, Fuzzy C-means, tf-idf, BERT, LDA   | 
+| [Car price prediction Kept](https://github.com/Blausher/show/tree/main/kept_task) | CatBoost, SHAP, tf-idf   | 
+| [Click prediction Avito](https://github.com/Blausher/show/tree/main/avito_click_prediction) | Spark, Hadoop, Vowpal Wabbit   | 
+| [telegram tennis bot 🎾](https://github.com/Blausher/show/tree/main/tg_tennis_project) | ООП, MySQL, SQLAlchemy   | 
 
 
 Тестовые задания из собеседований:
